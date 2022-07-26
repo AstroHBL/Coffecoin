@@ -1,2 +1,2 @@
-# Teacoin
-Teacoin
+# Coffecoin
+Coffecoin
