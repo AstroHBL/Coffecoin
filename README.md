@@ -1,2 +1,2 @@
-# Coffecoin
-Coffecoin
+# Floppacoin
+Floppacoin
