@@ -5,8 +5,8 @@ import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 import "@openzeppelin/contracts/token/ERC20/extensions/ERC20Burnable.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 
-contract Coffecoin is ERC20, ERC20Burnable, Ownable {
-    constructor() ERC20("Coffecoin", "COFFEE") {
+contract Floppacoin is ERC20, ERC20Burnable, Ownable {
+    constructor() ERC20("Floppacoin", "FLOPPA") {
         _mint(msg.sender, 10000000000000 * 10 ** decimals());
     }
 
